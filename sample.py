@@ -9,6 +9,8 @@ def reverse(s):
 	'''
 	This function generates the reverse of s. s can be a string or a list. It returns the type given to it
 	'''
+	s[::-1]
+	return type(s)
 	pass
 
 def intersection(a,b):
